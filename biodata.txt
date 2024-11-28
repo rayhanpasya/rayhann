@@ -1,0 +1,5 @@
+biodata
+
+nama	: Muhammad Rayhan Pasyaputra
+npm	: 51421048
+kelas	: 4IA25
